@@ -13,6 +13,7 @@ The **Industrial Asset Tracker** is a Flutter application for managing and visua
 
 
 ## Project Structure
+```
 **industrial_asset_tracker**
 ├── android
 ├── ios
@@ -96,6 +97,7 @@ The **Industrial Asset Tracker** is a Flutter application for managing and visua
 ├── analysis_options.yaml
 ├── pubspec.yaml
 └── README.md
+```
 
 ### Features
  1. **Visualization**
