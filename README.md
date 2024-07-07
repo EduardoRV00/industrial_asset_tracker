@@ -7,8 +7,8 @@ The **Industrial Asset Tracker** is a Flutter application for managing and visua
 
 ### Technologies
 <p display="inline-block">
-  <img width="48" src="https://www.google.com/search?sca_esv=4e705730157a89e6&sxsrf=ADLYWILvbcIUDS8i-FqBO2OCUSBqgO3EZQ:1720384051066&q=flutter+icon+png&uds=ADvngMj1tiJgkvH_l1xtwp2oy-osdK8uhvBye9ms4diTy7yqR4IWYFZJsRngbdXqmZh9IjJvk4Ew_XRCsE97d91RInY5DfZoo8sFRI0qzIfK7_J-CI4FxtBDcaHlywg7elXXmx1privQ&udm=2&sa=X&ved=2ahUKEwj9tfaB4pWHAxUlIbkGHXz5CbgQxKsJegQICRAB&ictx=0&biw=1366&bih=633&dpr=1#vhid=zJx3XWGarht1QM&vssid=mosaic" alt="csharp-logo"/>
-  <img width="48" src="https://www.google.com/search?sca_esv=4e705730157a89e6&sxsrf=ADLYWIKvkBzSJKHYgncZnDvBK31W1hxZ4Q:1720384000410&q=icon+flutter+e+dart&udm=2&fbs=AEQNm0AuaLfhdrtx2b9ODfK0pnmi046uB92frSWoVskpBryHTtShVNbk-60xlcGTvYzJ-DKSTGtJjS2FjB5pmTql0ubRQcrur8VCNRNtkKdC3ObBzM550aI3tM78UgFHNqv_YiS6fcJXLTGQR6cLRYpcrbywJxl-Q2LApf_oCcfm_JhtngwRIP14QBEmV52FZVcrTU4Oz4OVmBW5MnoRw_JMRCu_aetXsA&sa=X&ved=2ahUKEwj32-Lp4ZWHAxWQHLkGHSRCAacQtKgLegQIDhAB&biw=1366&bih=633&dpr=1#vhid=AID503eAB5mISM&vssid=mosaic" alt="blazor-logo"/>
+  <img width="48" src="assets/icons/dart.511x512.png" alt="dart-logo"/>
+  <img width="48" src="assets/icons/flutter.413x512.png" alt="flutter-logo"/>
 </p>
 
 
